@@ -3,7 +3,7 @@ name: test javascript
 on:
   push:
     branches:
-      - master
+      - main
 
 
 jobs:
